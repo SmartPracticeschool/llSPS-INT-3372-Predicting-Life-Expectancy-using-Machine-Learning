@@ -1,7 +1,7 @@
 # llSPS-INT-3372-Predicting-Life-Expectancy-using-Machine-Learning
 Predicting Life Expectancy using Machine Learning
 
-A remote internship project offerd by SmartBridge
+A remote internship project offered by SmartBridge
 
 This project “Predicting Life Expectancy using Machine Learning” is  an web application that predict the expected average life span of people of a given country based on various features.  This project is built using IBM services(Watson studio, Node Red, Watson machine learning). 
  
